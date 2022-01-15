@@ -11,7 +11,7 @@ const useStyles = makeStyles((theme) => ({
         fontFamily: "Montserrat",
         fontWeight: "bold",
         cursor: "pointer",
-    },
+    }
 }));
 
 const darkTheme = createTheme({
@@ -20,7 +20,7 @@ const darkTheme = createTheme({
             main: "#fff",
         },
         type: "dark",
-    },
+    }
 });
 
 

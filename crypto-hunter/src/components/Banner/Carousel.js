@@ -27,7 +27,7 @@ const Carousel = () => {
     carousel: {
       height: "50%",
       display: "flex",
-      alignItems: "center",
+      alignItems: "center"
     },
     carouselItem: {
       display: "flex",
